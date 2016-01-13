@@ -1,0 +1,5 @@
+package wordgen
+
+class FileCorpusTest {
+
+}
